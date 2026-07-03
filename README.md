@@ -4,9 +4,9 @@ Sistema completo de venda de ingressos para eventos culturais, demonstrando os p
 
 ## Equipe
 
-- **[Nome Completo]** - RGM: [RGM]
-- **[Nome Completo]** - RGM: [RGM]
-- **[Nome Completo]** - RGM: [RGM]
+- **Nycolas Guilherme Nunes da Silva** - RGM: 38072696
+- **Evandro Augusto Nicolau Soares Dias** - RGM: 43511805
+- **Diego Leal Clemente** - RGM: 42182271
 
 ## Mapeamento de Conceitos
 
